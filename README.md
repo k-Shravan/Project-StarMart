@@ -142,8 +142,7 @@ Some products (e.g., chips, candy bars) will be sold strictly at **MRP** - no di
 
 **Membership discounts**:
 
-- Gold members: **5% off**
-- Platinum members: **10% off**
+- **10% off**
   These discounts will stack with normal discounts (up to a capped limit in the lookup table).
 
 ---
