@@ -217,6 +217,5 @@ The `orders` table is the **main fact table** of the project.
 
 - Customers will buy more during holidays, more people will show up during these periods, discounts are provided as well.
 
-- 
-
 ---
+
